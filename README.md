@@ -1,4 +1,4 @@
-# Profit Calculator Example
+# Profit Calculator Examples
 
 ##### The ProfitCalculator has 3 different types of methods to Calculate maximum profit
 
